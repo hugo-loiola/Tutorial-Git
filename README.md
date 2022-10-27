@@ -1,3 +1,1 @@
 # Tutorial-Git
-
-teste
